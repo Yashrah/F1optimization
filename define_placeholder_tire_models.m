@@ -1,4 +1,4 @@
-% --- File: define_placeholder_tire_models.m (New File - Extracted from old define_tire_models) ---
+
 function tire_models = define_placeholder_tire_models()
     % Defines placeholder performance and degradation characteristics for tire compounds.
     % Uses linear degradation inspired by the Filatov article.
