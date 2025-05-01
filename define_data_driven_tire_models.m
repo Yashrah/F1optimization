@@ -1,4 +1,4 @@
-% --- File: define_data_driven_tire_models.m (New File) ---
+
 function tire_models = define_data_driven_tire_models(csv_filepath, target_driver, target_compound_name, target_stint)
     % Defines tire models by fitting data from a CSV file for one compound,
     % and uses placeholder models for others.
